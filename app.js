@@ -65,7 +65,7 @@ function gerarNumeroAleatorio()
 
 function reiniciarJogo()
 {
-    numeroSecreto = gerarNumeroAleatorio();
+      numeroSecreto = gerarNumeroAleatorio();
     limparCampo();
     tentativas = 1;
 
